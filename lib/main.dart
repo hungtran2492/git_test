@@ -50,8 +50,8 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+  var name = "123";
   int _counter = 0;
-  var name = "KTHUB";
 
   void _incrementCounter() {
     setState(() {
