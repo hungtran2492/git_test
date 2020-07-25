@@ -52,7 +52,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
 
   int _counter = 0;
-  var name = "name anh toi";
+  var name = "name anh 123123123123";
   void _incrementCounter() {
     setState(() {
       // This call to setState tells the Flutter framework that something has
