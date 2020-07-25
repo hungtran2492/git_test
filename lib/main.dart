@@ -50,8 +50,9 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  var name = "12345";
+  var name = "name anh 80890890809809";
   int _counter = 0;
+
 
   void _incrementCounter() {
     setState(() {
